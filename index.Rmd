@@ -1,0 +1,45 @@
+---
+title: "Árboles autóctonos de la República Dominicana: Características de conservación y propagación para una reforestación sustentable"
+author: 
+- Editado por Elena Castillo-Lorenzo (RBG Kew), Brígido Peguero (†) (JBN) y Tiziana Ulian (RBG Kew).
+- "Autores: Elena Castillo-Lorenzo (RBG Kew), Brígido Peguero (†) (JBN), Francisco Jiménez (JBN), Wilkin Encarnación (JBN), Pablo Gómez Barreiro (RBG Kew), Teodoro Clase (JBN), Ricardo García (JBN) y Tiziana Ulian (RBG Kew)."
+
+documentclass: book
+url: https://pgomba.github.io/arbolesRD/
+link-citations: yes
+github-repo: pgomba/arbolesRD.git
+cover-image: cover.jpg
+---
+
+# Portada {.unnumbered}
+
+<center>
+
+<img src="cover.jpg" alt="logo" style="padding-right:10px;padding-left:20px;width:70%"/>
+
+</center>
+
+<br>
+
+El libro **Árboles autóctonos de la República Dominicana: Características de conservación y propagación para una reforestación sustentable** contiene 35 fichas de especies de árboles importantes para la sostenibilidad de las comunidades y reforestación de los bosques de la República Dominicana.
+
+La versión original en formato pdf de este libro puede descargarse haciendo click en el botón PDF de la barra de herramientas situada en la parte superior (junto al botón de búsqueda y ajuste de formato de fuente).
+
+### Sugerencia de referencia del libro {.unlisted .unnumbered}
+
+**Castillo-Lorenzo, E., Peguero, B., Ulian, T. (eds.) (2022)** *Árboles autóctonos de la República Dominicana para una reforestación sustentable: Características de conservación y propagación.* Publicado en Santo Domingo, RD.
+
+<br>
+<br>
+
+------------------------------------------------------------------------
+
+Versión en linea y PDF disponible en: <https://pgomba.github.io/arbolesRD>
+
+Se autoriza la reproducción total o parcial de esta obra para fines no comerciales citando a la fuente original. Creative Commons License: CC-BY-NC-ND
+
+![](figures/ccl.jpg){width="148"}
+
+© Royal Botanic Gardens, Kew y Jardín Botánico Nacional Dr. Rafael M. Moscoso, 2022
+
+*Versión 1.0.0. Última actualización: `r format(Sys.time(), '%d/%m/%Y')`*

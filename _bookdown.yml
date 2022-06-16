@@ -1,0 +1,50 @@
+delete_merged_file: true
+language:
+  label:
+    fig: "Figura "
+    tab: "Tabla "
+  ui:
+    chapter_name: ""
+output_dir: "docs"    
+rmd_files:
+  [
+    "index.Rmd",
+    "abrv.Rmd",
+
+    "dedicacion.Rmd",
+
+    "edicion.Rmd",
+    "agradecimientos.Rmd",
+    "descargo_de_responsabilidad.Rmd",
+    "prologo.Rmd",
+    "introduccion.Rmd",
+
+    "annonaceae.Rmd",
+    "bignoniaceae.Rmd",
+    "burseraceae.Rmd",
+    "cactaceae.Rmd",
+    "clusiaceae.Rmd",
+    "combretaceae.Rmd",
+    "cupressaceae.Rmd",
+    "fabaceae.Rmd",
+    "juglandaceae.Rmd",
+    "magnoliaceae.Rmd",
+    "malpighiaceae.Rmd",
+    "malvaceae.Rmd",
+    "meliaceae.Rmd",
+    "myrtaceae.Rmd",
+    "picrodendraceae.Rmd",
+    "polygonaceae.Rmd",
+    "rhamnaceae.Rmd",
+    "rutaceae.Rmd",
+    "sapindaceae.Rmd",
+    "sapotaceae.Rmd",
+    "simaroubaceae.Rmd",
+    "verbenaceae.Rmd",
+    "zygophyllaceae.Rmd",
+    
+    "referencias.Rmd",
+    "glosario.Rmd",
+    "contracubierta.Rmd",
+   
+  ]

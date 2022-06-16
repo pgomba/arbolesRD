@@ -1,0 +1,361 @@
+# (PART\*) GLOSARIOS {.unnumbered}
+
+# Familias {.unnumbered}
+
+<div class="newspaper">
+[Annonaceae]
+<br>
+[Bignoniaceae]
+<br>
+[Burseraceae]
+<br>
+[Cactaceae]
+<br>
+[Clusiaceae]
+<br>
+[Combretaceae]
+<br>
+[Cupressaceae]
+<br>
+[Fabaceae]
+<br>
+[Juglandaceae]
+<br>
+[Magnoliaceae]
+<br>
+[Malpighiaceae]
+<br>
+[Malvaceae]
+<br>
+[Meliaceae]
+<br>
+[Myrtaceae]
+<br>
+[Picrodendraceae]
+<br>
+[Polygonaceae]
+<br>
+[Rhamnaceae]
+<br>
+[Rutaceae]
+<br>
+[Sapindaceae]
+<br>
+[Sapotaceae]
+<br>
+[Simaroubaceae]
+<br>
+[Verbenaceae]
+<br>
+[Verbenaceae]
+<br>
+[Zygophyllaceae]
+</div>
+
+# Especies {.unnumbered}
+
+<div class="newspaper">
+[*Abarema glauca*](#abarema)
+<br>
+[*Annona mucosa*](#mucosa)
+<br>
+[*Arcoa gonavensis*](#arcoa)
+<br>
+[*Buchenavia tetraphylla*](#buchenavia)
+<br>
+[*Byrsonima spicata*](#byrsonia)
+<br>
+[*Caesalpinia coriaria*](#caesalpinia)
+<br>
+[*Carapa guianensis*](#carapa)
+<br>
+[*Ceiba pentandra*](#ceiba)
+<br>
+[Coccoloba pubescens](#coccoloba)
+<br>
+[*Chrysophyllum cainito*](#chrys)
+<br>
+[*Ekmanianthe longiflora*](#ekmani)
+<br>
+[*Guaiacum officinale*](#guaiacum)
+<br>
+[*Hymenaea courbaril*](#hymenea)
+<br>
+[*Juglans jamaicensis*](#juglans)
+<br>
+[*Juniperus gracilior*](#juniperus)
+<br>
+[*Magnolia hamorii*](#magnolia)
+<br>
+[*Mammea americana*](#mamey)
+<br>
+[*Manilkara valenzuelana*](#manilkara)
+<br>
+[Melicoccus jimenezii](#meli)
+<br>
+[*Mora abbottii*](#mora)
+<br>
+[*Ormosia krugii*](#ormosia)
+<br>
+[*Oxandra laurifolia*](#oxandra)
+<br>
+[*Peltophorum dubium var. berteroanum*](#pelto)
+<br>
+[*Pereskia quisqueyana*](#pereskia)
+<br>
+[*Petitia domingensis*](#petitia)
+<br>
+[*Picrodendron baccatum*](#picro)
+<br>
+[*Pimenta haitiensis*](#pimenta)
+<br>
+[*Simarouba berteroana*](#simarouba)
+<br>
+[*Tabebuia berteroi*](#tberte)
+<br>
+[*Tabebuia domingensis*](#tdomi)
+<br>
+[*Tabebuia polyantha*](#tpoly)
+<br>
+[*Tetragastris balsamifera*](#tetragastris)
+<br>
+[*Vachellia cucuyo*](#vachellia)
+<br>
+[Zanthoxylum flavum](#zantho)
+<br>
+[*Ziziphus rhodoxylon*](#zizi)
+<br>
+</div>
+
+# Nombres comunes {#comunes .unnumbered}
+
+<div class="newspaper3">
+[**A**]{style="color:#6D9737"}
+<br>
+[Abey hembra](#pelto)
+<br>
+[Aceituna](#simarouba)
+<br>
+[Aceituno](#tberte)
+<br>
+[Aguacatillo](#mucosa)
+<br>
+[Ahoga becerro](#picro)
+<br>
+[Algarroba](#hymenea)
+<br>
+[Algarrobo](#hymenea)
+<br>
+[Algodón becerro](#picro)
+<br>
+[Alquitrán](#arcoa)
+<br>
+[Amacey](#tetragastris)
+<br>
+[Amacey hembra](#tetragastris)
+<br>
+[Andiroba](#carapa)
+<br>
+[Anón](#mucosa)
+<br>
+[**B**]{style="color:#6D9737"}
+<br>
+[Batalá](#manilkara)
+<br>
+[**C**]{style="color:#6D9737"}
+<br>
+[Cabirma de Guinea](#carapa)
+<br>
+[Caimito](#chrys)
+<br>
+[Caimito grande](#chrys)
+<br>
+[Candón](#mucosa)
+<br>
+[Candongo](#mucosa)
+<br>
+[Canelilla](#pimenta)
+<br>
+[Canelillo](#pimenta)
+<br>
+[Canelito](#pimenta)
+<br>
+[Capá blanco](#petitia)
+<br>
+[Capá de sabana](#petitia)
+<br>
+[Capaz](#petitia)
+<br>
+[Caracolí](#abarema)
+<br>
+[Caracolillo](#abarema)
+<br>
+[Ceiba](#ceiba)
+<br>
+[Cenizoso](#tberte)
+<br>
+[Coi](#mora)
+<br>
+[Col](#mora)
+<br>
+[Cola](#mora)
+<br>
+[Cotoperí](#meli)
+<br>
+[Cucuyo](#vachellia)
+<br>
+[**D**]{style="color:#6D9737"}
+<br>
+[Daguilla](#simarouba)
+<br>
+[Dividivi](#caesalpinia) 
+<br>
+[**E**]{style="color:#6D9737"}
+<br>
+[Ébano amarillo](#magnolia)
+<br>
+[Espinilla](#zantho)
+<br>
+[Espinillo](#zantho)
+<br>
+[Erizo](#vachellia)
+<br>
+[**F**]{style="color:#6D9737"}
+<br>
+[Flor blanca](#tpoly)
+<br>
+[Fruta de palo](#buchenavia)
+<br>
+[Fuquete](#buchenavia)
+<br>
+[**G**]{style="color:#6D9737"}
+<br>
+[Guaraguao](#buchenavia)
+<br>
+[Guatapaná](#caesalpinia)
+<br>
+[Guatapanal](#pelto)
+<br>
+[Guayacán](#guaiacum)
+<br>
+[Guayacán colorado](#guaiacum)
+<br>
+[Guayacán prieto](#guaiacum)
+<br>
+[Guazumilla](#petitia)
+<br>
+[**H**]{style="color:#6D9737"}
+<br>
+[Hoja ancha](#zizi)
+<br>
+[Hojancho](#coccoloba) 
+<br>
+[**J**]{style="color:#6D9737"}
+<br>
+[Juan Primero](#simarouba)
+<br>
+[Jobo cigϋelo](#meli)
+<br>
+[**L**]{style="color:#6D9737"}
+<br>
+[Libidibi](#caesalpinia)
+<br>
+[Limoncillo](#meli)
+<br>
+[**M**]{style="color:#6D9737"}
+<br>
+[Madroño](#byrsonia)
+<br>
+[Malaguette](#pimenta)
+<br>
+[Mamey](#mamey)
+<br>
+[Mamey de Santo Domingo](#mamey)
+<br>
+[Manzanilla](#picro)
+<br>
+[Maricao](#byrsonia)
+<br>
+[Mata de chele](#pereskia)
+<br>
+[Muñeco](#tpoly)
+<br>
+[**N**]{style="color:#6D9737"}
+<br>
+[Nasacol](#caesalpinia) 
+<br>
+[Nisperillo](#manilkara)
+<br>
+[Nogá](#juglans)
+<br>
+[Nogal](#juglans)
+<br>
+[Nuez](#juglans)
+<br>
+[**O**]{style="color:#6D9737"}
+<br>
+[Olivo](#simarouba)
+<br>
+[Oreja de burro](#coccoloba) 
+<br>
+[**P**]{style="color:#6D9737"}
+<br>
+[Palo amarillo](#buchenavia)
+<br>
+[Palo de muñeco](#tpoly)
+<br>
+[Palo de peonía](#ormosia)
+<br>
+[Palo de peronila](#ormosia)
+<br>
+[Pancho prieto](#zizi)
+<br>
+[Palo de tabaco](#magnolia)
+<br>
+[Palo de yuca](#tdomi)
+<br>
+[Palo cenizo](#tberte)
+<br>
+[Peralejo](#byrsonia)
+<br>
+[Piragua](#byrsonia)
+<br>
+[**R**]{style="color:#6D9737"}
+<br>
+[Robillo](#ekmani)
+<br>
+[Roble de Puerto Rico](#ekmani)
+<br>
+[Rosa de Bayahíbe](#pereskia)
+<br>
+[Rubio](#meli)
+<br>
+[**S**]{style="color:#6D9737"}
+<br>
+[Sabina](#juniperus)
+<br>
+[Sabina de olor](#juniperus)
+<br>
+[Saona de gente](#zizi)
+<br>
+[Sapotille marrón](#manilkara)
+<br>
+[**T**]{style="color:#6D9737"}
+<br>
+[Tabacón](#magnolia) 
+<br>
+[Tabernan](#abarema)
+<br>
+[Tamarindo marrón](#arcoa)
+<br>
+[**Y**]{style="color:#6D9737"}
+<br>
+[Yaya](#oxandra)
+<bre>
+[Yaya blanca](#oxandra)
+<br>
+[**Z**]{style="color:#6D9737"}
+<br>
+[Zapotillo](#manilkara)
+<br>
+</div>

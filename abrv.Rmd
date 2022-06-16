@@ -1,0 +1,14 @@
+# Abreviaciones y acrónimos {.unnumbered}
+
+|              |                                                                                                            |
+|--------------|------------------------------------------------------------------------------------------------------------|
+| ABSA         | Access and Benefit Sharing Agreement (Acuerdo para el Acceso y Distribución de los  Beneficios)            |
+| GTSB         | Global Tree Seed Bank (Banco Mundial de Semillas de Árboles)                                               |
+| GWF          | Garfield Weston Foundation (Fundación Garfield Weston)                                                     |
+| IUCN         | International Union for Conservation of Nature (Unión Internacional para la Conservación de la Naturaleza) |
+| JBN          | Jardín Botánico Nacional                                                                                   |
+| MSB          | Millennium Seed Bank (Banco de Semillas del Milenio)                                                       |
+| *Nom. Cons.* | *Nomen conservandum* (nombre conservado)                                                                   |
+| POWO         | Plants of the World Online (Plantas del Mundo Online)                                                      |
+| RBG Kew      | Royal Botanic Gardens Kew (Jardínes Botánicos Reales de Kew)                                               |
+| Subsp.       | Subespecie                                                                                                 |

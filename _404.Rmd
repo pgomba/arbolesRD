@@ -1,0 +1,9 @@
+# PÁGINA NO ENCONTRADA
+
+La página que buscas no está disponible por alguna de las siguientes razones:
+
+1.  El vínculo que conduce a esta página es incorrecto
+
+2.  El marcador vinculado a la página ha cambiado
+
+Usa este enlace a [GitHub](https://github.com/pgomba/arbolesRD/issues) para reportar el error.

@@ -1,0 +1,64 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+h1 {
+  color: #6D9737;
+    }
+h2 {
+  color: #1c1b1b
+}
+h3 {
+  color: #ED7D31
+}
+
+body {
+  text-align: justify;
+}
+
+.blackbox {
+  padding: 0.5em;
+  background:  #6D9737;
+  color: white;
+  border: 2px  #6D9737;
+  border-radius: 10px;
+  font-size: 20pt;
+}
+figure {
+    display: inline-block;
+    border: 1px dotted white;
+    margin-top: 0px;
+    margin-left: 15px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    border: 1px dotted white;
+    text-align: left;
+}
+.book .book-summary ul.summary li span {
+  color: #6D9737;
+  opacity: 1;
+}
+.book .book-body .page-wrapper .page-inner section.normal h3 {
+  font-size: 12pt;
+}
+.newspaper {
+  column-count: 2;
+  column-gap: 40px;
+}
+.newspaper3 {
+  column-count: 4;
+  column-gap: 40px;
+}
