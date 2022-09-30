@@ -1,14 +1,16 @@
 # Abreviaciones y acrónimos {.unnumbered}
 
 |              |                                                                                                            |
-|--------------|------------------------------------------------------------------------------------------------------------|
-| ABSA         | Access and Benefit Sharing Agreement (Acuerdo para el Acceso y Distribución de los  Beneficios)            |
-| GTSB         | Global Tree Seed Bank (Banco Mundial de Semillas de Árboles)                                               |
-| GWF          | Garfield Weston Foundation (Fundación Garfield Weston)                                                     |
-| IUCN         | International Union for Conservation of Nature (Unión Internacional para la Conservación de la Naturaleza) |
-| JBN          | Jardín Botánico Nacional                                                                                   |
-| MSB          | Millennium Seed Bank (Banco de Semillas del Milenio)                                                       |
-| *Nom. Cons.* | *Nomen conservandum* (nombre conservado)                                                                   |
-| POWO         | Plants of the World Online (Plantas del Mundo Online)                                                      |
-| RBG Kew      | Royal Botanic Gardens Kew (Jardínes Botánicos Reales de Kew)                                               |
-| Subsp.       | Subespecie                                                                                                 |
+|--------------|----------------------------------------------------------|
+| <abbr title="Access and Benefit Sharing Agreement (Acuerdo para el Acceso y Distribución de los Beneficios)">ABSA</abbr>         | Access and Benefit Sharing Agreement (Acuerdo para el Acceso y Distribución de los Beneficios)             |
+| <abbr title="Global Tree Seed Bank (Banco Mundial de Semillas de Árboles)">GTSB</abbr>         | Global Tree Seed Bank (Banco Mundial de Semillas de Árboles)                                               |
+| <abbr title="Garfield Weston Foundation (Fundación Garfield Weston)">GWF</abbr>          | Garfield Weston Foundation (Fundación Garfield Weston)                                                     |
+| <abbr title="International Union for Conservation of Nature (Unión Internacional para la Conservación de la Naturaleza)">IUCN</abbr>         | International Union for Conservation of Nature (Unión Internacional para la Conservación de la Naturaleza) |
+| <abbr title="Jardín Botánico Nacional">JBN</abbr>          | Jardín Botánico Nacional                                                                                   |
+| <abbr title="Millennium Seed Bank (Banco de Semillas del Milenio)">MSB</abbr>          | Millennium Seed Bank (Banco de Semillas del Milenio)                                                       |
+| <abbr title="Nomen conservandum (nombre conservado)"><em>Nom. Cons.</em></abbr> | *Nomen conservandum* (nombre conservado)                                                                   |
+| <abbr title="Plants of the World Online (Plantas del Mundo Online)">POWO</abbr>         | Plants of the World Online (Plantas del Mundo Online)                                                      |
+| <abbr title="Royal Botanic Gardens Kew (Jardínes Botánicos Reales de Kew)">RBG Kew</abbr>      | Royal Botanic Gardens Kew (Jardínes Botánicos Reales de Kew)                                               |
+| <abbr title="Subespecie">Subsp.</abbr>       | Subespecie                                                                                                 |
+
+
