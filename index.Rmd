@@ -21,20 +21,20 @@ cover-image: cover.jpg
 
 <br>
 
-El libro **Árboles autóctonos de la República Dominicana: Características de conservación y propagación para una reforestación sustentable** contiene 35 fichas de especies de árboles importantes para la sostenibilidad de las comunidades y reforestación de los bosques de la República Dominicana.
+El libro **Árboles autóctonos de la República Dominicana: Conservación de semillas y propagación para una reforestación sustentable** contiene 35 fichas de especies de árboles importantes para la sostenibilidad de las comunidades y reforestación de los bosques de la República Dominicana.
 
 La versión original en formato pdf de este libro puede descargarse haciendo click en el botón PDF de la barra de herramientas situada en la parte superior (junto al botón de búsqueda y ajuste de formato de fuente).
 
 ### Sugerencia de referencia del libro {.unlisted .unnumbered}
 
-**Castillo-Lorenzo, E., Peguero, B., Ulian, T. (eds.) (2022)** *Árboles autóctonos de la República Dominicana para una reforestación sustentable: Características de conservación y propagación.* Publicado en Santo Domingo, RD.
+**Castillo-Lorenzo, E., Peguero, B., Ulian, T. (eds.) (2022)** *Árboles autóctonos de la República Dominicana: Conservación de semillas y propagación para una reforestación sustentable.* Publicado en Santo Domingo, RD.
 
 <br>
 <br>
 
 ------------------------------------------------------------------------
 
-Versión en linea y PDF disponible en: <https://pgomba.github.io/arbolesRD>
+Versión en línea y PDF disponible en: <https://pgomba.github.io/arbolesRD>
 
 Se autoriza la reproducción total o parcial de esta obra para fines no comerciales citando a la fuente original. Creative Commons License: CC-BY-NC-ND
 
