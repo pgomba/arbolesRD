@@ -47,7 +47,7 @@ knitr::include_graphics("figures/juglans2.png")
 
 **Tolerancia a la deshidratación:** no hay datos disponibles en la literatura, sin embargo, los bajos porcentajes de germinación (<30%) obtenidos en el JBN sugiere la necesidad de investigar más sobre el comportamiento de almacenamiento de éstas semillas.
 
-```{r,echo=FALSE,fig.cap="Nueces de *J. jamaicensis* (Foto: P. Gómez Barreiro, RBG Kew)",out.width = "100%"}
+```{r,echo=FALSE,fig.cap="Nueces y secciones de *J. jamaicensis* (Foto: P. Gómez Barreiro, RBG Kew)",out.width = "100%"}
 knitr::include_graphics("figures/juglans3.png")
 ```
 
