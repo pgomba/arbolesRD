@@ -11,7 +11,7 @@ rmd_files:
     "index.Rmd",
     "abrv.Rmd",
 
-    "dedicacion.Rmd",
+    "dedicatoria.Rmd",
 
     "edicion.Rmd",
     "agradecimientos.Rmd",
