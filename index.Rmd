@@ -1,8 +1,8 @@
 ---
 title: "Árboles autóctonos de la República Dominicana: Conservaci'on de semillas y propagación para una reforestación sustentable"
 author: 
-- Editado por Elena Castillo-Lorenzo (RBG Kew), Brígido Peguero (†) (JBN) y Tiziana Ulian (RBG Kew).
-- "Autores: Elena Castillo-Lorenzo (RBG Kew), Brígido Peguero (†) (JBN), Francisco Jiménez (JBN), Wilkin Encarnación (JBN), Pablo Gómez Barreiro (RBG Kew), Teodoro Clase (JBN), Ricardo García (JBN) y Tiziana Ulian (RBG Kew)."
+- Editado por Elena Castillo-Lorenzo, Brígido Peguero (†) y Tiziana Ulian.
+- "Autores: Elena Castillo-Lorenzo, Brígido Peguero (†), Francisco Jiménez, Wilkin Encarnación, Pablo Gómez Barreiro, Teodoro Clase, Ricardo García y Tiziana Ulian."
 
 documentclass: book
 url: https://pgomba.github.io/arbolesRD/
